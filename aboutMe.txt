@@ -2,3 +2,4 @@ Adam Weaver
 Senior Year
 Computer Engineering
 Music
+COEN174,COEN175
